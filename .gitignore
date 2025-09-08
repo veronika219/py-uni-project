@@ -1,0 +1,28 @@
+# Файли Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Віртуальні оточення
+venv/
+env/
+.venv/
+.env/
+
+# Файли IDE (PyCharm / IntelliJ)
+.idea/
+*.iml
+
+# Логи та тимчасові файли
+*.log
+*.tmp
+*.swp
+
+# Файли налаштувань системи
+.DS_Store
+Thumbs.db
+
+# Файли пакету / збірки
+dist/
+build/
+*.egg-info/
